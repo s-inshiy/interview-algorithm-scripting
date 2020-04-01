@@ -1,2 +1,2 @@
-# interview-algorithm-scripting-challenges
-Interview Algorithm Scripting Challenges
+# Interview Algorithm Scripting Challenges
+
